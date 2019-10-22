@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cftkb)(type KiCad)(uri C:/Keyboard/pcbs/discipline/cftkb.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/Keyboard/pcbs/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+)
