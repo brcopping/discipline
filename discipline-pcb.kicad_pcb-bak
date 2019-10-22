@@ -8611,7 +8611,7 @@
     (pad "" np_thru_hole circle (at 49.9999 -8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module cftkb:MX-7U-Stabilizer (layer F.Cu) (tedit 5D50D182) (tstamp 5CE14A90)
+  (module cftkb:MX-7U-Stabilizer (layer F.Cu) (tedit 5D50D182) (tstamp 5DB06C89)
     (at 184.444107 166.22927)
     (fp_text reference ST72 (at 0 3.175) (layer Cmts.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -9174,7 +9174,7 @@
   (gr_text 1.25U (at 70.429311 169.273864) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_text "coseyfannitutti 2019\nrev1" (at 173.49267 166.161008) (layer F.SilkS)
+  (gr_text "coseyfannitutti 2019 rev1\nmessed with by bcopping" (at 176.5808 166.3446) (layer F.SilkS) (tstamp 5DB06C5A)
     (effects (font (size 2 1.5) (thickness 0.075)) (justify right))
   )
 
