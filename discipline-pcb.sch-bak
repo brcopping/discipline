@@ -2832,17 +2832,6 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontr
 	1    0    0    -1  
 $EndComp
 Connection ~ 4100 6250
-$Comp
-L discipline-pcb-rescue:KEYSW-keyboard_parts SWb29
-U 1 1 5DB34BFB
-P 12300 3550
-F 0 "SWb29" H 12300 3783 60  0000 C CNN
-F 1 "KEYSW" H 12300 3450 60  0001 C CNN
-F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED" H 12300 3550 60  0001 C CNN
-F 3 "" H 12300 3550 60  0000 C CNN
-	1    12300 3550
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	12600 3550 12650 3550
 Connection ~ 12650 3550
@@ -2923,4 +2912,15 @@ Wire Wire Line
 	2900 4100 2900 4150
 Wire Wire Line
 	3550 4100 3550 4750
+$Comp
+L discipline-pcb-rescue:KEYSW-keyboard_parts SW29
+U 1 1 5DE00CA1
+P 12300 3550
+F 0 "SW29" H 12300 3783 60  0000 C CNN
+F 1 "KEYSW" H 12300 3450 60  0001 C CNN
+F 2 "cftkb:SW_Cherry_MX1A_2.00u_PCBNOSCREEN" H 12300 3550 60  0001 C CNN
+F 3 "" H 12300 3550 60  0000 C CNN
+	1    12300 3550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
